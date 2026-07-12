@@ -7,8 +7,8 @@ sites:
   - name: Kommo — API + Base de datos
     url: https://kommo.app/api/health
   - name: Kommo — Web Promocional
-    url: https://kommo-app.com
+    url: https://kommolatam.com
 
 status-website:
-  cname: status.kommo-app.com
+  cname: status.kommolatam.com
   name: Kommo Status
