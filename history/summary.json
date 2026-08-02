@@ -4,19 +4,19 @@
     "url": "https://kommo.app",
     "icon": "https://icons.duckduckgo.com/ip3/kommo.app.ico",
     "slug": "kommo-sistema",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 772,
-    "timeWeek": 1134,
-    "timeMonth": 1112,
-    "timeYear": 1104,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.93%",
+    "time": 1109,
+    "timeDay": 1000,
+    "timeWeek": 1170,
+    "timeMonth": 1123,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2026-08-02": 0
+      "2026-08-02": 62
     }
   },
   {
