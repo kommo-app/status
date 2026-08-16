@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kommo.app.ico",
     "slug": "kommo-sistema",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.94%",
-    "time": 1126,
-    "timeDay": 1280,
-    "timeWeek": 1287,
-    "timeMonth": 1150,
-    "timeYear": 1126,
+    "uptimeYear": "99.95%",
+    "time": 1125,
+    "timeDay": 1018,
+    "timeWeek": 1233,
+    "timeMonth": 1152,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-08-02": 62
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 575,
-    "timeWeek": 524,
-    "timeMonth": 490,
-    "timeYear": 478,
+    "time": 479,
+    "timeDay": 517,
+    "timeWeek": 523,
+    "timeMonth": 494,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 720,
-    "timeWeek": 701,
-    "timeMonth": 639,
-    "timeYear": 621,
+    "time": 620,
+    "timeDay": 505,
+    "timeWeek": 671,
+    "timeMonth": 637,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   }
 ]
