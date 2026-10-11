@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1150,
-    "timeDay": 970,
-    "timeWeek": 1208,
-    "timeMonth": 1187,
-    "timeYear": 1150,
+    "time": 1148,
+    "timeDay": 958,
+    "timeWeek": 1156,
+    "timeMonth": 1172,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2026-08-02": 62
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 407,
-    "timeWeek": 514,
-    "timeMonth": 507,
+    "timeDay": 414,
+    "timeWeek": 489,
+    "timeMonth": 501,
     "timeYear": 487,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kommolatam.com.ico",
     "slug": "kommo-web-promocional",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "77.72%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.84%",
     "time": 640,
-    "timeDay": 528,
-    "timeWeek": 664,
-    "timeMonth": 672,
+    "timeDay": 0,
+    "timeWeek": 646,
+    "timeMonth": 669,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-11": 174,
+      "2026-10-10": 147
+    }
   }
 ]
